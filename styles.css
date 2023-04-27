@@ -1,0 +1,32 @@
+html{
+    background-color: #FF5733;
+}
+.inputFields{
+    background-color: #FF5733;
+}
+h1{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    background-color: #FF5733;
+    color: white;
+}
+br{
+    background-color: #FF5733;
+}
+.inputFields, input{
+    height: 50px;
+    text-align: center;
+}
+.names{
+    
+}
+.date{
+    overflow: hidden;
+    width: 229.4px;
+    
+}
+
+.output{
+    font-size: 50px;
+}
